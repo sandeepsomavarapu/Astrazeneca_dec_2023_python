@@ -264,17 +264,28 @@ oops:
 	
 	
 	
+	obj=Welcome();//constrcutor -->__init__()
 	
 	
+	Inheritance:
+	=============
+	
+		its process aquiring the features from one class to another class
 	
 	
-	
-	
+				code reusability
 
 
+		class Parent:
+		
+			1000 methods
+			
+			
+		
 
+		class Child(Parent):
 
-
+			200
 
 
 
