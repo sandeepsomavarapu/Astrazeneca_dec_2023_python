@@ -1,7 +1,7 @@
 def f(a, L=5):
 	res=a+L
 	print(res)
-f(40,20) #Default arguments
+f(40,35) #Default arguments
 f(L=20,a=40) #keyword arguments
 def arbitaryArgumentsFunction(*args):
 	print(args[0]+" "+args[1]+" "+args[2])
